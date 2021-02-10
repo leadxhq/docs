@@ -6,4 +6,4 @@ permalink: /
 ---
 
 # LEADx
-
+Hello. This is Kamil.
