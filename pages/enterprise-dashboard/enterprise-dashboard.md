@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Enterprise Dashboard Features
+title: Enterprise Dashboard
 nav_order: 5
 has_children: true
 permalink: /features
 ---
 
-# Enterprise Dashboard Features
+# Enterprise Dashboard

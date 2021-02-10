@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analytics Overview
-parent: Enterprise Dashboard Features
+parent: Enterprise Dashboard
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analytics Coaching Plans
-parent: Enterprise Dashboard Features
+parent: Enterprise Dashboard
 nav_order: 4
 ---
 

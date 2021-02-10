@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analytics Bulk Reports
-parent: Enterprise Dashboard Features
+parent: Enterprise Dashboard
 nav_order: 7
 ---
 
