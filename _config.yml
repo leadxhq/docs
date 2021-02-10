@@ -1,6 +1,6 @@
 title: "LEADx Docs"
 remote_theme: pmarsceill/just-the-docs
 
-footer_content: "Copyright &copy; 2021 LEADx. Distributed by an <a href=\"https://github.com/leadxhq/docs/blob/main/LICENSE\">MIT license.</a>"
+footer_content: "Copyright &copy; 2021 LEADx. Distributed by an <a href=\"https://github.com/leadxhq/docs/blob/main/LICENSE\">MIT license.</a> <a href=\"{{site.github.repository_url}}/blob/gh-pages/{{page.path}}\">Edit this page</a>"
 
 ga_tracking: UA-93127621-1
