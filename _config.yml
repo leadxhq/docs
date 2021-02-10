@@ -1,0 +1,6 @@
+title: "LEADx Docs"
+remote_theme: pmarsceill/just-the-docs
+
+footer_content: "Copyright &copy; 2021 LEADx. Distributed by an <a href=\"https://github.com/leadxhq/docs/blob/main/LICENSE\">MIT license.</a>"
+
+ga_tracking: UA-93127621-1
